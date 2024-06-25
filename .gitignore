@@ -1,0 +1,6 @@
+node_modules
+build
+FlaUI-Webdriver
+*.log
+.vscode
+package-lock.json*
