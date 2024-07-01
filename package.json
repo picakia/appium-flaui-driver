@@ -1,6 +1,6 @@
 {
   "name": "appium-flaui-driver",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Appium bridge to FlaUI.Webdriver",
   "keywords": [
     "appium",
