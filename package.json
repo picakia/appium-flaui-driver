@@ -100,6 +100,6 @@
     "sinon": "^18.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.2",
-    "webdriverio": "^8.39.0"
+    "webdriverio": "^9.0.4"
   }
 }
